@@ -1,0 +1,708 @@
+[
+  {
+    "id": "TID-1024",
+    "name": "Bengaluru Open 2025",
+    "date": "2025-08-16",
+    "status": "Upcoming",
+    "sport": "Badminton",
+    "format": "Singles",
+    "category": "Open Category",
+    "entryFee": 600,
+    "registrationDeadline": "2025-08-30",
+    "maxParticipants": 32,
+    "organizer": {
+      "name": "Kiran Kumar",
+      "phone": "+91-9876543210",
+      "email": "kiran@example.com"
+    },
+    "venue": {
+      "id": "V-BLR-ABC",
+      "name": "ABC Sports Arena",
+      "locality": "Indiranagar",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560038",
+      "lat": 12.9719,
+      "lng": 77.6412
+    },
+    "scheduleNote": "32-player knockout across two weekends. 30-min matches with 10-min breaks (40-min slots).",
+    "schedule": [
+      {
+        "code": "M1",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Patricia Chang vs Jerry Tate",
+        "isCompleted": false
+      },
+      {
+        "code": "M2",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Kevin Smith vs Mike Smith",
+        "isCompleted": false
+      },
+      {
+        "code": "M3",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Katrina May vs Kenneth Woods",
+        "isCompleted": false
+      },
+      {
+        "code": "M4",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Kimberly Williams vs David Roberts",
+        "isCompleted": false
+      },
+      {
+        "code": "M5",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Heather Cohen vs Katie Keller",
+        "isCompleted": false
+      },
+      {
+        "code": "M6",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Karen Foster vs Thomas Wilson",
+        "isCompleted": false
+      },
+      {
+        "code": "M7",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Anna Johnson vs Jenna Brooks",
+        "isCompleted": false
+      },
+      {
+        "code": "M8",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Rhonda Avila vs Ernest Townsend",
+        "isCompleted": false
+      },
+      {
+        "code": "M9",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Mr. Bryan Jones vs Lee Martinez",
+        "isCompleted": false
+      },
+      {
+        "code": "M10",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Levi Gibson vs Daniel Miller",
+        "isCompleted": false
+      },
+      {
+        "code": "M11",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Amy Bradshaw vs Laura Olson",
+        "isCompleted": false
+      },
+      {
+        "code": "M12",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Erin Haynes vs Alan King",
+        "isCompleted": false
+      },
+      {
+        "code": "M13",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Tara Walker vs Samantha Weaver",
+        "isCompleted": false
+      },
+      {
+        "code": "M14",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Stephen Garcia vs Lance Richardson",
+        "isCompleted": false
+      },
+      {
+        "code": "M15",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Sara Hall vs Steven Wilson",
+        "isCompleted": false
+      },
+      {
+        "code": "M16",
+        "date": "2025-08-16",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Brady Washington vs Kayla Moran",
+        "isCompleted": false
+      }
+    ],
+    "prizes": [
+      "Winner Trophy",
+      "Runner-up Trophy"
+    ],
+    "isDateScheduled": true,
+    "scheduledBy": "system",
+    "scheduledAt": "2025-08-15T14:55:57.326Z"
+  },
+  {
+    "id": "TID-2101",
+    "name": "Mumbai Classic Chess 2025",
+    "date": "2025-09-07",
+    "status": "Upcoming",
+    "sport": "Chess",
+    "format": "Swiss 7 Rounds",
+    "category": "Open",
+    "entryFee": 500,
+    "registrationDeadline": "2025-09-01",
+    "maxParticipants": 32,
+    "organizer": {
+      "name": "Priya Sharma",
+      "phone": "+91-9000000001",
+      "email": "priya@example.com"
+    },
+    "venue": {
+      "id": "V-MUM-PRM",
+      "name": "Premier Smash Court",
+      "locality": "Andheri East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "pincode": "400069"
+    },
+    "schedule": [],
+    "prizes": [
+      "Trophies",
+      "Cash Prizes"
+    ]
+  },
+  {
+    "id": "TID-3102",
+    "name": "Delhi Invitational Carrom Cup",
+    "date": "2025-08-24",
+    "status": "Upcoming",
+    "sport": "Carrom",
+    "format": "Singles",
+    "category": "Open",
+    "entryFee": 300,
+    "registrationDeadline": "2025-08-20",
+    "maxParticipants": 32,
+    "organizer": {
+      "name": "Aman Verma",
+      "phone": "+91-9811111111",
+      "email": "aman@example.com"
+    },
+    "venue": {
+      "id": "V-DEL-NCR",
+      "name": "NCR Sports Center",
+      "locality": "Dwarka",
+      "city": "New Delhi",
+      "state": "Delhi",
+      "pincode": "110075"
+    },
+    "schedule": []
+  },
+  {
+    "id": "TID-4103",
+    "name": "Hyderabad Chess Rapid",
+    "date": "2025-08-23",
+    "status": "Upcoming",
+    "sport": "Chess",
+    "format": "Rapid 9 Rounds",
+    "category": "Open",
+    "entryFee": 400,
+    "registrationDeadline": "2025-08-19",
+    "maxParticipants": 32,
+    "organizer": {
+      "name": "Sravani R",
+      "phone": "+91-9848000000",
+      "email": "sravani@example.com"
+    },
+    "venue": {
+      "id": "V-HYD-HIT",
+      "name": "Hitech Sports Club",
+      "locality": "Madhapur",
+      "city": "Hyderabad",
+      "state": "Telangana",
+      "pincode": "500081"
+    },
+    "schedule": []
+  },
+  {
+    "id": "TID-5104",
+    "name": "Chennai Carrom League",
+    "date": "2025-08-30",
+    "status": "Upcoming",
+    "sport": "Carrom",
+    "format": "Doubles",
+    "category": "U-17",
+    "entryFee": 250,
+    "registrationDeadline": "2025-08-25",
+    "maxParticipants": 32,
+    "organizer": {
+      "name": "Vignesh",
+      "phone": "+91-9003000000",
+      "email": "vignesh@example.com"
+    },
+    "venue": {
+      "id": "V-CHE-OMR",
+      "name": "OMR Multi-Sport Hall",
+      "locality": "Sholinganallur",
+      "city": "Chennai",
+      "state": "Tamil Nadu",
+      "pincode": "600119"
+    },
+    "schedule": []
+  },
+  {
+    "id": "TID-0001",
+    "name": "Real Carrom Round 1",
+    "date": "2025-08-30",
+    "sport": "Carrom",
+    "format": "Singles",
+    "category": "Open",
+    "entryFee": 250,
+    "registrationDeadline": "2025-08-31",
+    "maxParticipants": 32,
+    "status": "Completed",
+    "venue": {
+      "id": "V-BLR-XYZ",
+      "name": "XYZ Badminton Hub",
+      "locality": "Whitefield",
+      "city": "Bengaluru",
+      "state": "Karnataka",
+      "pincode": "560066"
+    },
+    "organizer": {
+      "name": "Shiva Prasad",
+      "phone": "9686855222",
+      "email": "shivaprasadjw@gmail.com"
+    },
+    "schedule": [
+      {
+        "code": "M1",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Patricia Chang vs Jerry Tate",
+        "isCompleted": true,
+        "winner": "Jerry Tate",
+        "completedAt": "2025-08-15T06:53:36.688Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M2",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Kevin Smith vs Mike Smith",
+        "isCompleted": true,
+        "winner": "Kevin Smith",
+        "completedAt": "2025-08-15T06:53:41.839Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M3",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Katrina May vs Kenneth Woods",
+        "isCompleted": true,
+        "winner": "Katrina May",
+        "completedAt": "2025-08-15T06:53:50.038Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M4",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Kimberly Williams vs David Roberts",
+        "isCompleted": true,
+        "winner": "Kimberly Williams",
+        "completedAt": "2025-08-15T06:53:54.081Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M5",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Heather Cohen vs Katie Keller",
+        "isCompleted": true,
+        "winner": "Heather Cohen",
+        "completedAt": "2025-08-15T06:53:58.258Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M6",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Karen Foster vs Thomas Wilson",
+        "isCompleted": true,
+        "winner": "Karen Foster",
+        "completedAt": "2025-08-15T06:54:04.633Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M7",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Anna Johnson vs Jenna Brooks",
+        "isCompleted": true,
+        "winner": "Anna Johnson",
+        "completedAt": "2025-08-15T06:54:10.064Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M8",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Rhonda Avila vs Ernest Townsend",
+        "isCompleted": true,
+        "winner": "Rhonda Avila",
+        "completedAt": "2025-08-15T06:54:18.814Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M9",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Mr. Bryan Jones vs Lee Martinez",
+        "isCompleted": true,
+        "winner": "Mr. Bryan Jones",
+        "completedAt": "2025-08-15T06:54:24.274Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M10",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Levi Gibson vs Daniel Miller",
+        "isCompleted": true,
+        "winner": "Levi Gibson",
+        "completedAt": "2025-08-15T06:54:36.401Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M11",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Amy Bradshaw vs Laura Olson",
+        "isCompleted": true,
+        "winner": "Amy Bradshaw",
+        "completedAt": "2025-08-15T06:55:10.247Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M12",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Erin Haynes vs Alan King",
+        "isCompleted": true,
+        "winner": "Erin Haynes",
+        "completedAt": "2025-08-15T06:55:23.620Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M13",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Tara Walker vs Samantha Weaver",
+        "isCompleted": true,
+        "winner": "Tara Walker",
+        "completedAt": "2025-08-15T06:55:27.198Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M14",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Stephen Garcia vs Lance Richardson",
+        "isCompleted": true,
+        "winner": "Stephen Garcia",
+        "completedAt": "2025-08-15T06:55:32.150Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M15",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Sara Hall vs Steven Wilson",
+        "isCompleted": true,
+        "winner": "Sara Hall",
+        "completedAt": "2025-08-15T06:55:37.161Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M16",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 32",
+        "players": "Brady Washington vs Kayla Moran",
+        "isCompleted": true,
+        "winner": "Brady Washington",
+        "completedAt": "2025-08-15T06:55:40.977Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M17",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Jerry Tate vs Kevin Smith",
+        "isCompleted": true,
+        "winner": "Jerry Tate",
+        "completedAt": "2025-08-15T07:54:17.629Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M18",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Katrina May vs Kimberly Williams",
+        "isCompleted": true,
+        "winner": "Katrina May",
+        "completedAt": "2025-08-15T07:54:19.248Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M19",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Heather Cohen vs Karen Foster",
+        "isCompleted": true,
+        "winner": "Heather Cohen",
+        "completedAt": "2025-08-15T07:54:22.689Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M20",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Anna Johnson vs Rhonda Avila",
+        "isCompleted": true,
+        "winner": "Anna Johnson",
+        "completedAt": "2025-08-15T07:54:24.606Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M21",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Mr. Bryan Jones vs Levi Gibson",
+        "isCompleted": true,
+        "winner": "Mr. Bryan Jones",
+        "completedAt": "2025-08-15T07:54:26.555Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M22",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Amy Bradshaw vs Erin Haynes",
+        "isCompleted": true,
+        "winner": "Amy Bradshaw",
+        "completedAt": "2025-08-15T07:54:28.378Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M23",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Tara Walker vs Stephen Garcia",
+        "isCompleted": true,
+        "winner": "Tara Walker",
+        "completedAt": "2025-08-15T07:54:32.112Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M24",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Round of 16",
+        "players": "Sara Hall vs Brady Washington",
+        "isCompleted": true,
+        "winner": "Sara Hall",
+        "completedAt": "2025-08-15T07:54:34.136Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M25",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Quarterfinal",
+        "players": "Jerry Tate vs Katrina May",
+        "isCompleted": true,
+        "winner": "Jerry Tate",
+        "completedAt": "2025-08-15T07:55:01.462Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M26",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Quarterfinal",
+        "players": "Heather Cohen vs Anna Johnson",
+        "isCompleted": true,
+        "winner": "Heather Cohen",
+        "completedAt": "2025-08-15T07:55:03.553Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M27",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Quarterfinal",
+        "players": "Mr. Bryan Jones vs Amy Bradshaw",
+        "isCompleted": true,
+        "winner": "Mr. Bryan Jones",
+        "completedAt": "2025-08-15T07:55:05.294Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M28",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Quarterfinal",
+        "players": "Tara Walker vs Sara Hall",
+        "isCompleted": true,
+        "winner": "Tara Walker",
+        "completedAt": "2025-08-15T07:55:06.955Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M29",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Semifinal",
+        "players": "Jerry Tate vs Heather Cohen",
+        "isCompleted": true,
+        "winner": "Jerry Tate",
+        "completedAt": "2025-08-15T07:55:49.891Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M30",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Semifinal",
+        "players": "Mr. Bryan Jones vs Tara Walker",
+        "isCompleted": true,
+        "winner": "Mr. Bryan Jones",
+        "completedAt": "2025-08-15T07:55:52.418Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M31 (Final)",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "Final",
+        "players": "Jerry Tate vs Mr. Bryan Jones",
+        "isCompleted": true,
+        "winner": "Jerry Tate",
+        "completedAt": "2025-08-15T08:22:04.327Z",
+        "completedBy": "admin"
+      },
+      {
+        "code": "M32 (3rd Place)",
+        "date": "2025-08-30",
+        "start": "",
+        "end": "",
+        "round": "3rd Place Match",
+        "players": "Heather Cohen vs Tara Walker",
+        "isCompleted": true,
+        "winner": "Tara Walker",
+        "completedAt": "2025-08-15T08:22:24.292Z",
+        "completedBy": "admin"
+      }
+    ],
+    "prizes": [
+      "Winner Trophy",
+      "Runner-up Trophy"
+    ],
+    "completedAt": "2025-08-16T03:49:53.566Z",
+    "completedBy": "system"
+  }
+]

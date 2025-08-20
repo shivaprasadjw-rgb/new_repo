@@ -1,0 +1,60 @@
+[
+  {
+    "id": "V-BLR-ABC",
+    "name": "ABC Sports Arena",
+    "locality": "Indiranagar",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560038",
+    "lat": 12.9719,
+    "lng": 77.6412
+  },
+  {
+    "id": "V-BLR-XYZ",
+    "name": "XYZ Badminton Hub",
+    "locality": "Whitefield",
+    "city": "Bengaluru",
+    "state": "Karnataka",
+    "pincode": "560066"
+  },
+  {
+    "id": "V-MUM-PRM",
+    "name": "Premier Smash Court",
+    "locality": "Andheri East",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "pincode": "400069"
+  },
+  {
+    "id": "V-DEL-NCR",
+    "name": "NCR Sports Center",
+    "locality": "Dwarka",
+    "city": "New Delhi",
+    "state": "Delhi",
+    "pincode": "110075"
+  },
+  {
+    "id": "V-HYD-HIT",
+    "name": "Hitech Sports Club",
+    "locality": "Madhapur",
+    "city": "Hyderabad",
+    "state": "Telangana",
+    "pincode": "500081"
+  },
+  {
+    "id": "V-PUN-KAL",
+    "name": "Kalyani Sports Arena",
+    "locality": "Kalyani Nagar",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "pincode": "411006"
+  },
+  {
+    "id": "V-CHE-OMR",
+    "name": "OMR Multi-Sport Hall",
+    "locality": "Sholinganallur",
+    "city": "Chennai",
+    "state": "Tamil Nadu",
+    "pincode": "600119"
+  }
+]

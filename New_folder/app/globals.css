@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --bg: #0b0f14;
+  --card: #0f172a;
+}
+
+html, body, #__next {
+  height: 100%;
+}
+
+body {
+  @apply bg-slate-50 text-slate-900 antialiased;
+}
+
+.container-responsive {
+  @apply mx-auto w-full max-w-7xl px-4 sm:px-6 lg:px-8;
+}
+
+.card {
+  @apply bg-white border border-slate-200 rounded-xl shadow-sm;
+}
+
+.badge {
+  @apply inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium;
+}
+
+.badge-success {
+  @apply bg-green-100 text-green-800;
+}
+.badge-warning {
+  @apply bg-yellow-100 text-yellow-800;
+}
+.badge-danger {
+  @apply bg-red-100 text-red-800;
+}
+
+.table {
+  @apply w-full text-left text-sm;
+}
+.table th {
+  @apply sticky top-0 bg-slate-100 font-semibold text-slate-700 text-xs uppercase tracking-wide px-3 py-2;
+}
+.table td {
+  @apply px-3 py-2 border-t border-slate-100;
+}

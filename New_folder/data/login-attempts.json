@@ -1,0 +1,14 @@
+{
+  "::1:login": {
+    "ip": "::1:login",
+    "attempts": 5,
+    "lastAttempt": 1755607307197,
+    "lockedUntil": 0
+  },
+  "::1": {
+    "ip": "::1",
+    "attempts": 0,
+    "lastAttempt": 1755607305582,
+    "lockedUntil": 0
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "6e4410ac21c345a2faabb437c577ab93e87310778f796a17545a56ba29df5b92": {
+    "id": "6e4410ac21c345a2faabb437c577ab93e87310778f796a17545a56ba29df5b92",
+    "username": "admin",
+    "createdAt": 1755607188576,
+    "expiresAt": 1755693588576,
+    "ip": "::1",
+    "userAgent": "unknown"
+  },
+  "49a7fa20ab11d0997de8e236571d540695851d96f152b0363c461826031c12ad": {
+    "id": "49a7fa20ab11d0997de8e236571d540695851d96f152b0363c461826031c12ad",
+    "username": "admin",
+    "createdAt": 1755607305589,
+    "expiresAt": 1755693705589,
+    "ip": "::1",
+    "userAgent": "unknown"
+  }
+}

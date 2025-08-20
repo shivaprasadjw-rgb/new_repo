@@ -1,0 +1,102 @@
+{
+  "TID-1024": {
+    "tournamentId": "TID-1024",
+    "currentRound": "Round of 32",
+    "rounds": [
+      {
+        "name": "Round of 32",
+        "order": 1,
+        "maxMatches": 16,
+        "isCompleted": false
+      },
+      {
+        "name": "Round of 16",
+        "order": 2,
+        "maxMatches": 8,
+        "isCompleted": false
+      },
+      {
+        "name": "Quarterfinal",
+        "order": 3,
+        "maxMatches": 4,
+        "isCompleted": false
+      },
+      {
+        "name": "Semifinal",
+        "order": 4,
+        "maxMatches": 2,
+        "isCompleted": false
+      },
+      {
+        "name": "3rd Place Match",
+        "order": 5,
+        "maxMatches": 1,
+        "isCompleted": false
+      },
+      {
+        "name": "Final",
+        "order": 6,
+        "maxMatches": 1,
+        "isCompleted": false
+      }
+    ],
+    "lastUpdated": "2025-08-15T16:07:37.657Z",
+    "lastUpdatedBy": "admin"
+  },
+  "TID-0001": {
+    "tournamentId": "TID-0001",
+    "currentRound": "Final",
+    "rounds": [
+      {
+        "name": "Round of 32",
+        "order": 1,
+        "maxMatches": 16,
+        "isCompleted": true,
+        "completedAt": "2025-08-15T06:55:46.853Z",
+        "completedBy": "admin"
+      },
+      {
+        "name": "Round of 16",
+        "order": 2,
+        "maxMatches": 8,
+        "isCompleted": true,
+        "completedAt": "2025-08-15T07:54:35.330Z",
+        "completedBy": "admin"
+      },
+      {
+        "name": "Quarterfinal",
+        "order": 3,
+        "maxMatches": 4,
+        "isCompleted": true,
+        "completedAt": "2025-08-15T07:55:08.068Z",
+        "completedBy": "admin"
+      },
+      {
+        "name": "Semifinal",
+        "order": 4,
+        "maxMatches": 2,
+        "isCompleted": true,
+        "completedAt": "2025-08-15T07:55:53.875Z",
+        "completedBy": "admin"
+      },
+      {
+        "name": "3rd Place Match",
+        "order": 5,
+        "maxMatches": 1,
+        "isCompleted": true,
+        "completedAt": "2025-08-15T08:22:26.772Z",
+        "completedBy": "admin"
+      },
+      {
+        "name": "Final",
+        "order": 6,
+        "maxMatches": 1,
+        "isCompleted": true,
+        "completedAt": "2025-08-15T08:22:05.592Z",
+        "completedBy": "admin"
+      }
+    ],
+    "lastUpdated": "2025-08-15T08:22:26.772Z",
+    "lastUpdatedBy": "admin"
+  }
+}

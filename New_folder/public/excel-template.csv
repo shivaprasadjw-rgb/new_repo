@@ -1,0 +1,3 @@
+fullName,gender,email,phone,dateOfBirth,address,schoolOrEmployer,playerPhoto,emergencyContactName,emergencyContactRelationship,emergencyContactPhone,knownAllergies,priorMedicalConditions,currentMedications,playerSkillLevel,pastPerformance,paymentScreenshot,transactionId
+John Doe,Male,john@example.com,9876543210,1990-01-01,123 Main St,ABC Company,,Jane Doe,Wife,9876543211,None,None,None,Beginner,None,,TXN001
+Jane Smith,Female,jane@example.com,9876543212,1992-05-15,456 Oak Ave,XYZ Corp,,John Smith,Husband,9876543213,None,None,None,Intermediate,Local Champion,,TXN002

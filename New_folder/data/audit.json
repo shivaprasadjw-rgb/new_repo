@@ -1,0 +1,4309 @@
+[
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "REG-8WQ7FD",
+    "tournamentId": "TID-1024",
+    "details": {
+      "fullName": "Shiva",
+      "gender": "Male",
+      "schoolOrEmployer": "Intel",
+      "playerSkillLevel": "Advanced",
+      "email": "shivaprasadjw@gmail.com",
+      "phone": "09686855222",
+      "address": "BANGALORE SOUTH, \nBANGALORE, KARNATAKA, \n560083"
+    },
+    "id": "AUD-ppjuo7o7",
+    "timestamp": "2025-08-13T10:16:00.159Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "REG-AWC7NM",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 27,
+      "fullName": "Shiwa"
+    },
+    "id": "AUD-2qr7o40m",
+    "timestamp": "2025-08-13T10:17:15.581Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "REG-AWC7NM",
+    "tournamentId": "TID-1024",
+    "details": {
+      "fullName": "Shiwa",
+      "gender": "Male",
+      "schoolOrEmployer": "Info Tech",
+      "playerSkillLevel": "Beginner",
+      "email": "shiwa@gmail.com",
+      "phone": "09686855222",
+      "address": "BANGALORE SOUTH, BANGALORE, KARNATAKA, 560083"
+    },
+    "id": "AUD-oksfpkf8",
+    "timestamp": "2025-08-13T10:17:31.277Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "name": "Real Carrom Round 1",
+      "sport": "Carrom"
+    },
+    "id": "AUD-lbuoo5c0",
+    "timestamp": "2025-08-13T15:30:06.847Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "REG-EDHGEU",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 28,
+      "fullName": "Manoj"
+    },
+    "id": "AUD-zlr2tpkf",
+    "timestamp": "2025-08-13T15:30:54.670Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "REG-EDHGEU",
+    "tournamentId": "TID-0001",
+    "details": {
+      "fullName": "Manoj",
+      "gender": "Male",
+      "schoolOrEmployer": "Silcon Vally",
+      "playerSkillLevel": "Intermediate",
+      "email": "manoj@gmail.com",
+      "phone": "",
+      "address": ""
+    },
+    "id": "AUD-y2fuszet",
+    "timestamp": "2025-08-13T15:31:00.107Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-8WQ7FD",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Shiva"
+    },
+    "id": "AUD-74gq6dog",
+    "timestamp": "2025-08-14T09:16:41.266Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-TPDUGX",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 3,
+      "fullName": "Tom"
+    },
+    "id": "AUD-yiijh3zw",
+    "timestamp": "2025-08-14T09:16:46.280Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-USG4BF",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 17,
+      "fullName": "Nitin"
+    },
+    "id": "AUD-asbkj21o",
+    "timestamp": "2025-08-14T09:16:49.518Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-TK72S2",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 5,
+      "fullName": "Sam"
+    },
+    "id": "AUD-yyuxk7l8",
+    "timestamp": "2025-08-14T09:16:53.205Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-AN82MV",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 2,
+      "fullName": "Sam"
+    },
+    "id": "AUD-ozptcgyx",
+    "timestamp": "2025-08-14T09:16:56.568Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-AWC7NM",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 27,
+      "fullName": "Shiwa"
+    },
+    "id": "AUD-6ym4mhpw",
+    "timestamp": "2025-08-14T09:16:59.953Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-EDHGEU",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 28,
+      "fullName": "Manoj"
+    },
+    "id": "AUD-x37q6pcd",
+    "timestamp": "2025-08-14T09:38:08.603Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-E28R6G",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 26,
+      "fullName": "Shiva "
+    },
+    "id": "AUD-u76peggs",
+    "timestamp": "2025-08-14T09:38:13.390Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-YQYZYT",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 13,
+      "fullName": "Ashish"
+    },
+    "id": "AUD-nc40qfkc",
+    "timestamp": "2025-08-14T09:38:16.811Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "BULK_IMPORT",
+    "resourceType": "tournament_participants",
+    "resourceId": "TID-0001",
+    "details": {
+      "tournamentId": "TID-0001",
+      "participantsCount": 32,
+      "tournamentName": "Real Carrom Round 1"
+    },
+    "id": "AUD-bxloncw4",
+    "timestamp": "2025-08-14T09:38:42.232Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "POPULATE_ROUND_32",
+    "resourceType": "tournament_matches",
+    "resourceId": "TID-0001-Round32",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-kpriw0k2",
+    "timestamp": "2025-08-14T09:43:20.936Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "POPULATE_ROUND_32",
+    "resourceType": "tournament_matches",
+    "resourceId": "TID-0001-Round32",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-0py36igc",
+    "timestamp": "2025-08-14T10:25:03.965Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-b84cppn7",
+    "timestamp": "2025-08-14T14:41:21.358Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-1024",
+    "tournamentId": "TID-1024",
+    "details": {
+      "tournamentId": "TID-1024",
+      "participantsCount": 32,
+      "tournamentName": "Bengaluru Open 2025"
+    },
+    "id": "AUD-es4p8v14",
+    "timestamp": "2025-08-14T14:47:23.052Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-Round32",
+    "tournamentId": "TID-1024",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-1024"
+    },
+    "id": "AUD-l094f2kf",
+    "timestamp": "2025-08-14T15:05:06.267Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-7w6mpm2n",
+    "timestamp": "2025-08-14T15:05:51.246Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-cjpewfw0",
+    "timestamp": "2025-08-14T15:16:32.907Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-xfj51ejs",
+    "timestamp": "2025-08-14T15:23:02.713Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-owwzc6cx",
+    "timestamp": "2025-08-14T15:29:10.893Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-Round32",
+    "tournamentId": "TID-1024",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-1024"
+    },
+    "id": "AUD-027ved8f",
+    "timestamp": "2025-08-14T15:35:55.282Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-Round32",
+    "tournamentId": "TID-1024",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-1024"
+    },
+    "id": "AUD-tltiuoev",
+    "timestamp": "2025-08-14T15:39:57.393Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-1x1otxud",
+    "timestamp": "2025-08-14T15:47:39.984Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-tjhr30wx",
+    "timestamp": "2025-08-14T15:48:05.263Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-r8s53veb",
+    "timestamp": "2025-08-14T15:48:10.790Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-lxgqxo6n",
+    "timestamp": "2025-08-14T15:49:05.275Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-4ta5dejd",
+    "timestamp": "2025-08-14T15:49:14.256Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-yyl7rls0",
+    "timestamp": "2025-08-14T15:50:10.515Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-xbo9n1of",
+    "timestamp": "2025-08-14T15:50:11.350Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-n1l5rx4z",
+    "timestamp": "2025-08-14T15:50:13.090Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-6yeawlyg",
+    "timestamp": "2025-08-14T16:04:47.379Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-cjue7upt",
+    "timestamp": "2025-08-14T16:07:34.681Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-oqnhua2y",
+    "timestamp": "2025-08-14T16:11:03.564Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-7fb837hj",
+    "timestamp": "2025-08-14T16:11:04.842Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-pwpvfkka",
+    "timestamp": "2025-08-14T16:16:38.039Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M1",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M1",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-cr1y5blt",
+    "timestamp": "2025-08-14T16:24:53.093Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M2",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kevin Smith",
+      "matchCode": "M2",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-00se5e1f",
+    "timestamp": "2025-08-14T16:24:56.056Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M3",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kenneth Woods",
+      "matchCode": "M3",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-wsxziro1",
+    "timestamp": "2025-08-14T16:24:58.555Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M4",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "David Roberts",
+      "matchCode": "M4",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-z21drpwt",
+    "timestamp": "2025-08-14T16:25:01.265Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M5",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katie Keller",
+      "matchCode": "M5",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-xfgjj1se",
+    "timestamp": "2025-08-14T16:25:03.704Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M6",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Karen Foster",
+      "matchCode": "M6",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-4c9t1acd",
+    "timestamp": "2025-08-14T16:25:05.523Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M7",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jenna Brooks",
+      "matchCode": "M7",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-zswtne84",
+    "timestamp": "2025-08-14T16:25:07.577Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M8",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Ernest Townsend",
+      "matchCode": "M8",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-gikm0q3v",
+    "timestamp": "2025-08-14T16:25:09.466Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M9",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M9",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-ww9j5efx",
+    "timestamp": "2025-08-14T16:25:11.921Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M10",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Levi Gibson",
+      "matchCode": "M10",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-6r23mbph",
+    "timestamp": "2025-08-14T16:25:14.280Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M11",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M11",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-vzbsknuu",
+    "timestamp": "2025-08-14T16:25:16.598Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M12",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Erin Haynes",
+      "matchCode": "M12",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-lvov8w3e",
+    "timestamp": "2025-08-14T16:25:18.240Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M13",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M13",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-mp223318",
+    "timestamp": "2025-08-14T16:25:20.310Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M14",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Stephen Garcia",
+      "matchCode": "M14",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-53val9sf",
+    "timestamp": "2025-08-14T16:25:22.292Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M15",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M15",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-788fc0sh",
+    "timestamp": "2025-08-14T16:25:24.752Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Brady Washington",
+      "matchCode": "M16",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-g6o5zh48",
+    "timestamp": "2025-08-14T16:25:26.571Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-5b5ahfuq",
+    "timestamp": "2025-08-14T16:25:28.339Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-z544l9u6",
+    "timestamp": "2025-08-14T16:26:01.374Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M17",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M17",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-yuk02zjd",
+    "timestamp": "2025-08-14T16:27:14.421Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M18",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kenneth Woods",
+      "matchCode": "M18",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-54lkuiop",
+    "timestamp": "2025-08-14T16:27:16.511Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M19",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katie Keller",
+      "matchCode": "M19",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-xt9gja1t",
+    "timestamp": "2025-08-14T16:27:18.814Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M20",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jenna Brooks",
+      "matchCode": "M20",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-coh0jsxt",
+    "timestamp": "2025-08-14T16:27:20.530Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M21",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M21",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-a2me1grh",
+    "timestamp": "2025-08-14T16:27:22.409Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M22",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M22",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-dvttpnut",
+    "timestamp": "2025-08-14T16:27:24.243Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M23",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M23",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-8euw4bzi",
+    "timestamp": "2025-08-14T16:27:26.265Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M24",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M24",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-jzranqcb",
+    "timestamp": "2025-08-14T16:27:28.502Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-c7yuovxz",
+    "timestamp": "2025-08-14T16:27:31.239Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M25",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M25",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-oonza52s",
+    "timestamp": "2025-08-14T16:28:36.900Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M26",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katie Keller",
+      "matchCode": "M26",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-85qdmszx",
+    "timestamp": "2025-08-14T16:28:38.651Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M27",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M27",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-o2oqy7gi",
+    "timestamp": "2025-08-14T16:28:40.250Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M28",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M28",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-6qny25bu",
+    "timestamp": "2025-08-14T16:28:42.047Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Quarterfinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Quarterfinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-0r65tg5o",
+    "timestamp": "2025-08-14T16:28:44.591Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Quarterfinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Quarterfinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-6sntulzd",
+    "timestamp": "2025-08-14T16:29:04.055Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M29",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M29",
+      "roundName": "Semifinal"
+    },
+    "id": "AUD-h3t80c6s",
+    "timestamp": "2025-08-14T16:29:56.465Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M30",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M30",
+      "roundName": "Semifinal"
+    },
+    "id": "AUD-ryuc1iq4",
+    "timestamp": "2025-08-14T16:29:58.244Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Semifinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Semifinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-q9rrgqlf",
+    "timestamp": "2025-08-14T16:30:04.579Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-qwnup7q6",
+    "timestamp": "2025-08-14T16:46:23.563Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Quarterfinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Quarterfinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-9a090b1w",
+    "timestamp": "2025-08-14T16:46:25.806Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-T3XADQL1M",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Patricia Chang"
+    },
+    "id": "AUD-9bkuovog",
+    "timestamp": "2025-08-14T16:57:34.872Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-HTBPD7N5D",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kevin Smith"
+    },
+    "id": "AUD-hl1i1twg",
+    "timestamp": "2025-08-14T16:57:37.385Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-QNABFD29V",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Katrina May"
+    },
+    "id": "AUD-2p2lj03l",
+    "timestamp": "2025-08-14T16:57:40.038Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-X49AL7I8G",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kimberly Williams"
+    },
+    "id": "AUD-7a3f6nx6",
+    "timestamp": "2025-08-14T16:57:43.421Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-62WAGS50A",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Heather Cohen"
+    },
+    "id": "AUD-bl078l4j",
+    "timestamp": "2025-08-14T16:57:46.566Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-E76LQMMXI",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Karen Foster"
+    },
+    "id": "AUD-2hq11dmw",
+    "timestamp": "2025-08-14T16:57:49.356Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-VFRU22TZT",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Anna Johnson"
+    },
+    "id": "AUD-bmy275qi",
+    "timestamp": "2025-08-14T16:57:52.308Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-XMBH81GX0",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Rhonda Avila"
+    },
+    "id": "AUD-ugxwybaa",
+    "timestamp": "2025-08-14T16:57:54.808Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-WGLH4Z2ZH",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Mr. Bryan Jones"
+    },
+    "id": "AUD-8dtbwrmc",
+    "timestamp": "2025-08-14T16:57:57.324Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-673QY3KLU",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Levi Gibson"
+    },
+    "id": "AUD-y0wghkm6",
+    "timestamp": "2025-08-14T16:57:59.876Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-4XO6HNLSM",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Amy Bradshaw"
+    },
+    "id": "AUD-1fcit1o1",
+    "timestamp": "2025-08-14T16:58:02.765Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-DE1NHDQS3",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Erin Haynes"
+    },
+    "id": "AUD-wl6iw7c0",
+    "timestamp": "2025-08-14T16:58:05.446Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-HUK89458C",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Tara Walker"
+    },
+    "id": "AUD-peu8p350",
+    "timestamp": "2025-08-14T16:58:08.055Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-TMT96HXWS",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Stephen Garcia"
+    },
+    "id": "AUD-37f1tt8r",
+    "timestamp": "2025-08-14T16:58:10.533Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-4JVY2GGXS",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Sara Hall"
+    },
+    "id": "AUD-0zxsgmds",
+    "timestamp": "2025-08-14T16:58:12.981Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-0LMUM7D3H",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Brady Washington"
+    },
+    "id": "AUD-cxdm44d0",
+    "timestamp": "2025-08-14T16:58:16.272Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-DAJX7LBFT",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kayla Moran"
+    },
+    "id": "AUD-hjbl8vcv",
+    "timestamp": "2025-08-14T16:58:19.665Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-QTKULCHUR",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Steven Wilson"
+    },
+    "id": "AUD-j29cun8i",
+    "timestamp": "2025-08-14T16:58:23.643Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-S2J9K4BGZ",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Lance Richardson"
+    },
+    "id": "AUD-e3f1mqb7",
+    "timestamp": "2025-08-14T16:58:26.131Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-EYNSSHHOM",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Samantha Weaver"
+    },
+    "id": "AUD-kxs3prns",
+    "timestamp": "2025-08-14T16:58:29.121Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-E0MRLHC39",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Alan King"
+    },
+    "id": "AUD-oj3obuw9",
+    "timestamp": "2025-08-14T16:58:31.480Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-B6X90PRS3",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Laura Olson"
+    },
+    "id": "AUD-5hhti99q",
+    "timestamp": "2025-08-14T16:58:33.866Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-62CQS2LGJ",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Daniel Miller"
+    },
+    "id": "AUD-tt3r22ov",
+    "timestamp": "2025-08-14T16:58:36.995Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-93VRPBVZ3",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Lee Martinez"
+    },
+    "id": "AUD-mw4mpwkb",
+    "timestamp": "2025-08-14T16:58:39.678Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-Q4XJY8Y48",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Ernest Townsend"
+    },
+    "id": "AUD-1wdiudw5",
+    "timestamp": "2025-08-14T16:58:42.729Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-LE090LSQX",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Jenna Brooks"
+    },
+    "id": "AUD-y6e8ry5b",
+    "timestamp": "2025-08-14T16:58:45.034Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-91QHEVMFQ",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Thomas Wilson"
+    },
+    "id": "AUD-l6r780sg",
+    "timestamp": "2025-08-14T16:58:47.713Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-8W4API3F5",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Katie Keller"
+    },
+    "id": "AUD-zudopft3",
+    "timestamp": "2025-08-14T16:58:50.402Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-U6HDOBFM7",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "David Roberts"
+    },
+    "id": "AUD-3r96snyr",
+    "timestamp": "2025-08-14T16:58:52.496Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-TJSIMDPPL",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kenneth Woods"
+    },
+    "id": "AUD-l2xfmwy8",
+    "timestamp": "2025-08-14T16:58:54.749Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-BUN8AWFPY",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Mike Smith"
+    },
+    "id": "AUD-6y1e8jnf",
+    "timestamp": "2025-08-14T16:58:57.175Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-FPDQF07MN",
+    "tournamentId": "TID-0001",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Jerry Tate"
+    },
+    "id": "AUD-j5tdyizo",
+    "timestamp": "2025-08-14T16:58:59.413Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-z2d7v3ff",
+    "timestamp": "2025-08-14T16:59:36.595Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-qsbg6la1",
+    "timestamp": "2025-08-14T16:59:53.220Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-8iamm7nj",
+    "timestamp": "2025-08-14T17:00:06.100Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-hv5sxbay",
+    "timestamp": "2025-08-14T17:00:06.986Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-qk43dlyk",
+    "timestamp": "2025-08-14T17:00:07.725Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-6pug3i0n",
+    "timestamp": "2025-08-14T17:00:35.490Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-zotsjzzp",
+    "timestamp": "2025-08-14T17:00:39.973Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-kfnjgn3w",
+    "timestamp": "2025-08-14T17:19:52.708Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-nkopkrsn",
+    "timestamp": "2025-08-14T17:19:55.761Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-w3nyu0yq",
+    "timestamp": "2025-08-14T17:19:56.709Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-xukiyijg",
+    "timestamp": "2025-08-14T17:19:57.571Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-schedule-clear",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Manually cleared tournament schedule",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-m4nl1yu6",
+    "timestamp": "2025-08-14T17:33:13.224Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "tournamentId": "TID-0001",
+      "participantsCount": 32,
+      "tournamentName": "Real Carrom Round 1"
+    },
+    "id": "AUD-3lzrts8n",
+    "timestamp": "2025-08-14T17:34:50.238Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-88uz0pax",
+    "timestamp": "2025-08-14T17:35:43.620Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M1",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M1",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-tphda32h",
+    "timestamp": "2025-08-14T17:41:30.153Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M2",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kevin Smith",
+      "matchCode": "M2",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-0ozbkiqn",
+    "timestamp": "2025-08-14T17:41:32.218Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M3",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M3",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-ryg764fg",
+    "timestamp": "2025-08-14T17:41:34.280Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M4",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kimberly Williams",
+      "matchCode": "M4",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-8kcawsl5",
+    "timestamp": "2025-08-14T17:41:36.078Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M5",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M5",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-iwsnfosk",
+    "timestamp": "2025-08-14T17:41:38.375Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M6",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Karen Foster",
+      "matchCode": "M6",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-p3a5ykud",
+    "timestamp": "2025-08-14T17:41:40.077Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M7",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M7",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-8jqo8nsi",
+    "timestamp": "2025-08-14T17:41:41.884Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M8",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Rhonda Avila",
+      "matchCode": "M8",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-u4hk3g2l",
+    "timestamp": "2025-08-14T17:41:43.681Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M9",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Lee Martinez",
+      "matchCode": "M9",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-fzllhpon",
+    "timestamp": "2025-08-14T17:41:45.520Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M10",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Daniel Miller",
+      "matchCode": "M10",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-tym2xgbo",
+    "timestamp": "2025-08-14T17:41:47.503Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M11",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M11",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-5hvsydbr",
+    "timestamp": "2025-08-14T17:41:49.536Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M12",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Alan King",
+      "matchCode": "M12",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-qidfamud",
+    "timestamp": "2025-08-14T17:41:52.872Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M13",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M13",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-dp6ypldt",
+    "timestamp": "2025-08-14T17:41:54.881Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M14",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Stephen Garcia",
+      "matchCode": "M14",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-3pq7fh1w",
+    "timestamp": "2025-08-14T17:41:57.028Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M15",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M15",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-o56va7yk",
+    "timestamp": "2025-08-14T17:41:58.870Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kayla Moran",
+      "matchCode": "M16",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-pulp3cnp",
+    "timestamp": "2025-08-14T17:42:00.652Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-orrwv8v6",
+    "timestamp": "2025-08-14T17:42:03.796Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-u29omoj1",
+    "timestamp": "2025-08-14T17:45:02.991Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M17",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M17",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-d4i9ufs9",
+    "timestamp": "2025-08-14T17:45:14.548Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M18",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M18",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-andjjlg8",
+    "timestamp": "2025-08-14T17:45:17.239Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M19",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M19",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-ccz12wes",
+    "timestamp": "2025-08-14T17:45:19.406Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M20",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M20",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-0xna048z",
+    "timestamp": "2025-08-14T17:45:22.258Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M21",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Lee Martinez",
+      "matchCode": "M21",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-yb8l3z0m",
+    "timestamp": "2025-08-14T17:45:24.507Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M22",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M22",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-pirvnct9",
+    "timestamp": "2025-08-14T17:45:26.309Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M23",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M23",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-v6fzmo5r",
+    "timestamp": "2025-08-14T17:45:28.052Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M24",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M24",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-4otqmvgy",
+    "timestamp": "2025-08-14T17:45:29.742Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-r4prc89q",
+    "timestamp": "2025-08-14T17:45:31.659Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-v6urcsov",
+    "timestamp": "2025-08-14T17:48:02.785Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-7jezkh5o",
+    "timestamp": "2025-08-14T17:48:17.542Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-huzyt3h6",
+    "timestamp": "2025-08-14T17:48:31.395Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-lsfgzhzs",
+    "timestamp": "2025-08-14T17:48:39.258Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-vm93tjll",
+    "timestamp": "2025-08-14T17:48:42.759Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-un6s388k",
+    "timestamp": "2025-08-14T17:49:01.081Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-7jt5bjtd",
+    "timestamp": "2025-08-14T17:49:02.706Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-qwth95qb",
+    "timestamp": "2025-08-14T17:49:03.921Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-qnltiype",
+    "timestamp": "2025-08-14T17:49:05.253Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-vnt1grsy",
+    "timestamp": "2025-08-14T17:49:06.513Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-w80nz641",
+    "timestamp": "2025-08-14T17:49:10.907Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-1h347jh8",
+    "timestamp": "2025-08-14T17:49:12.003Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-eut21qib",
+    "timestamp": "2025-08-14T17:49:13.119Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M17",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Patricia Chang",
+      "matchCode": "M17",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-5tsd1q5e",
+    "timestamp": "2025-08-14T17:54:18.277Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M18",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M18",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-5aanuvn6",
+    "timestamp": "2025-08-14T17:54:20.260Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M19",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M19",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-qcshthb5",
+    "timestamp": "2025-08-14T17:54:21.680Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M20",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M20",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-u0fjk1np",
+    "timestamp": "2025-08-14T17:54:23.134Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M21",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Lee Martinez",
+      "matchCode": "M21",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-8kgzytpb",
+    "timestamp": "2025-08-14T17:54:24.602Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M22",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M22",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-s11i6jex",
+    "timestamp": "2025-08-14T17:54:26.335Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M23",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M23",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-v3zdxvjz",
+    "timestamp": "2025-08-14T17:54:28.896Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M24",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M24",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-7r4fmyea",
+    "timestamp": "2025-08-14T17:54:30.250Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-h581btij",
+    "timestamp": "2025-08-14T17:54:31.576Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M25",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M25",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-eh9mcsbr",
+    "timestamp": "2025-08-14T17:56:52.662Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M26",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M26",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-ftw14gi7",
+    "timestamp": "2025-08-14T17:56:55.038Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M27",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Lee Martinez",
+      "matchCode": "M27",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-svoeapsx",
+    "timestamp": "2025-08-14T17:56:57.995Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M28",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M28",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-xbdmffu4",
+    "timestamp": "2025-08-14T17:57:00.211Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Quarterfinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Quarterfinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-3yltp6vc",
+    "timestamp": "2025-08-14T17:57:02.755Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-schedule-clear",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Manually cleared tournament schedule",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-ubabq9zj",
+    "timestamp": "2025-08-15T06:37:52.280Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-5wi14jp9",
+    "timestamp": "2025-08-15T06:52:36.683Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-s1npar0e",
+    "timestamp": "2025-08-15T06:52:39.596Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M1",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M1",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-vk8kv66x",
+    "timestamp": "2025-08-15T06:53:26.954Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M1",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M1",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-mj52lhha",
+    "timestamp": "2025-08-15T06:53:36.794Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M2",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kevin Smith",
+      "matchCode": "M2",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-w2ogr88s",
+    "timestamp": "2025-08-15T06:53:41.971Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M3",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M3",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-v1nifags",
+    "timestamp": "2025-08-15T06:53:50.082Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M4",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Kimberly Williams",
+      "matchCode": "M4",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-fdx6r0ee",
+    "timestamp": "2025-08-15T06:53:54.189Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M5",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M5",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-qnxxl1z0",
+    "timestamp": "2025-08-15T06:53:58.377Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M6",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Karen Foster",
+      "matchCode": "M6",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-0r0c8wlp",
+    "timestamp": "2025-08-15T06:54:04.703Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M7",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M7",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-ct5ggfh5",
+    "timestamp": "2025-08-15T06:54:10.135Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M8",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Rhonda Avila",
+      "matchCode": "M8",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-b7104q3v",
+    "timestamp": "2025-08-15T06:54:18.905Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M9",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M9",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-buh21f2y",
+    "timestamp": "2025-08-15T06:54:24.338Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M10",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Levi Gibson",
+      "matchCode": "M10",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-9nhrm5jx",
+    "timestamp": "2025-08-15T06:54:36.493Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M11",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M11",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-h0qe14bt",
+    "timestamp": "2025-08-15T06:55:10.307Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M12",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Erin Haynes",
+      "matchCode": "M12",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-zqv1s2qu",
+    "timestamp": "2025-08-15T06:55:16.425Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M12",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Erin Haynes",
+      "matchCode": "M12",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-10md135a",
+    "timestamp": "2025-08-15T06:55:23.770Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M13",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M13",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-s883a7b5",
+    "timestamp": "2025-08-15T06:55:27.255Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M14",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Stephen Garcia",
+      "matchCode": "M14",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-8j5rrwbj",
+    "timestamp": "2025-08-15T06:55:32.194Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M15",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M15",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-o34iz5yt",
+    "timestamp": "2025-08-15T06:55:37.196Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Brady Washington",
+      "matchCode": "M16",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-c6ws4ad8",
+    "timestamp": "2025-08-15T06:55:41.012Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 32",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-0vn91yf4",
+    "timestamp": "2025-08-15T06:55:47.045Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-ixnmh9dh",
+    "timestamp": "2025-08-15T07:01:29.202Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M17",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M17",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-pw5jjea1",
+    "timestamp": "2025-08-15T07:02:03.847Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M18",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M18",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-5ugod7is",
+    "timestamp": "2025-08-15T07:02:07.894Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M19",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M19",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-ee129ahn",
+    "timestamp": "2025-08-15T07:02:14.378Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M20",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M20",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-xb1v8de2",
+    "timestamp": "2025-08-15T07:02:19.343Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M21",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M21",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-kocqv2yk",
+    "timestamp": "2025-08-15T07:02:27.540Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M22",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M22",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-bbtiyjbl",
+    "timestamp": "2025-08-15T07:02:31.014Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M23",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M23",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-rt9weajj",
+    "timestamp": "2025-08-15T07:02:43.473Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M23",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M23",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-a42oqqpx",
+    "timestamp": "2025-08-15T07:02:51.754Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M24",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M24",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-a1hfy2fb",
+    "timestamp": "2025-08-15T07:02:54.042Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-83u9fpj5",
+    "timestamp": "2025-08-15T07:02:59.181Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-8xapnw22",
+    "timestamp": "2025-08-15T07:07:07.412Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-laz627tl",
+    "timestamp": "2025-08-15T07:07:38.651Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-sfglhz2x",
+    "timestamp": "2025-08-15T07:07:49.385Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-3rss5ojp",
+    "timestamp": "2025-08-15T07:07:52.265Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-eepyklc0",
+    "timestamp": "2025-08-15T07:07:54.647Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-t7b3v874",
+    "timestamp": "2025-08-15T07:08:00.168Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-nqeux4mc",
+    "timestamp": "2025-08-15T07:08:07.812Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-xabtjfmn",
+    "timestamp": "2025-08-15T07:08:09.765Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-nfevf1zb",
+    "timestamp": "2025-08-15T07:08:16.246Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-kfeax7nd",
+    "timestamp": "2025-08-15T07:08:51.618Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-2lajljgg",
+    "timestamp": "2025-08-15T07:08:54.543Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-nrki8rf5",
+    "timestamp": "2025-08-15T07:10:15.319Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-6i50d4fj",
+    "timestamp": "2025-08-15T07:10:56.855Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-7z9fg5a5",
+    "timestamp": "2025-08-15T07:10:59.099Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-v99kznkk",
+    "timestamp": "2025-08-15T07:11:04.877Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-progression-fix",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Fixed tournament progression order",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-i1ytyf8e",
+    "timestamp": "2025-08-15T07:11:19.028Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-integrity-check",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Validated tournament progression integrity",
+      "tournamentId": "TID-0001",
+      "isValid": true
+    },
+    "id": "AUD-orr4ac1x",
+    "timestamp": "2025-08-15T07:11:35.582Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-dfbjrqry",
+    "timestamp": "2025-08-15T07:11:39.590Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M17",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M17",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-rvda6ztc",
+    "timestamp": "2025-08-15T07:54:17.648Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M18",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M18",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-6aefhxim",
+    "timestamp": "2025-08-15T07:54:19.254Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M19",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M19",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-zkns71gd",
+    "timestamp": "2025-08-15T07:54:22.709Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M20",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M20",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-lngr0vam",
+    "timestamp": "2025-08-15T07:54:24.614Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M21",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M21",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-6vxtabz9",
+    "timestamp": "2025-08-15T07:54:26.558Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M22",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M22",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-211kp8d3",
+    "timestamp": "2025-08-15T07:54:28.380Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M23",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M23",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-wtsh8570",
+    "timestamp": "2025-08-15T07:54:32.116Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M24",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M24",
+      "roundName": "Round of 16"
+    },
+    "id": "AUD-kx5y7otd",
+    "timestamp": "2025-08-15T07:54:34.142Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Round of 16",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Round of 16",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-t2m0svc3",
+    "timestamp": "2025-08-15T07:54:35.332Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M25",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M25",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-5tl2naap",
+    "timestamp": "2025-08-15T07:55:01.465Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M26",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M26",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-roo2vx0g",
+    "timestamp": "2025-08-15T07:55:03.557Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M27",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M27",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-4dhylyuh",
+    "timestamp": "2025-08-15T07:55:05.297Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M28",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M28",
+      "roundName": "Quarterfinal"
+    },
+    "id": "AUD-n55z5tt8",
+    "timestamp": "2025-08-15T07:55:06.957Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Quarterfinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Quarterfinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-nx2oo5j0",
+    "timestamp": "2025-08-15T07:55:08.074Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M29",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M29",
+      "roundName": "Semifinal"
+    },
+    "id": "AUD-mb0qb5yp",
+    "timestamp": "2025-08-15T07:55:49.893Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M30",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M30",
+      "roundName": "Semifinal"
+    },
+    "id": "AUD-h5ktsj7q",
+    "timestamp": "2025-08-15T07:55:52.421Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Semifinal",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Semifinal",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-jgdm1q3z",
+    "timestamp": "2025-08-15T07:55:53.885Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-integrity-check",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Validated tournament progression integrity",
+      "tournamentId": "TID-0001",
+      "isValid": true
+    },
+    "id": "AUD-sesvaxkt",
+    "timestamp": "2025-08-15T08:20:59.336Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-integrity-check",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Validated tournament progression integrity",
+      "tournamentId": "TID-0001",
+      "isValid": true
+    },
+    "id": "AUD-sgxeh2cv",
+    "timestamp": "2025-08-15T08:21:09.024Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-integrity-check",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Validated tournament progression integrity",
+      "tournamentId": "TID-0001",
+      "isValid": true
+    },
+    "id": "AUD-t497ml5z",
+    "timestamp": "2025-08-15T08:21:20.208Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-integrity-check",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Validated tournament progression integrity",
+      "tournamentId": "TID-0001",
+      "isValid": true
+    },
+    "id": "AUD-d06jf9k5",
+    "timestamp": "2025-08-15T08:21:24.085Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-integrity-check",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "Validated tournament progression integrity",
+      "tournamentId": "TID-0001",
+      "isValid": true
+    },
+    "id": "AUD-aovpkd9w",
+    "timestamp": "2025-08-15T08:21:29.589Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M31 (Final)",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M31 (Final)",
+      "roundName": "Final"
+    },
+    "id": "AUD-n8mbgaqm",
+    "timestamp": "2025-08-15T08:22:04.334Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-Final",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "Final",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-cxztp752",
+    "timestamp": "2025-08-15T08:22:05.594Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-M32 (3rd Place)",
+    "tournamentId": "TID-0001",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M32 (3rd Place)",
+      "roundName": "3rd Place Match"
+    },
+    "id": "AUD-c036bvrh",
+    "timestamp": "2025-08-15T08:22:24.293Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-0001-3rd Place Match",
+    "tournamentId": "TID-0001",
+    "details": {
+      "roundName": "3rd Place Match",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-76mwaual",
+    "timestamp": "2025-08-15T08:22:26.774Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M1",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Jerry Tate",
+      "matchCode": "M1",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-zkvwbb3c",
+    "timestamp": "2025-08-15T13:08:44.898Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M2",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Kevin Smith",
+      "matchCode": "M2",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-h74qhuiz",
+    "timestamp": "2025-08-15T13:08:48.996Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M3",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Katrina May",
+      "matchCode": "M3",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-ml9r7ne5",
+    "timestamp": "2025-08-15T13:08:50.665Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M4",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Kimberly Williams",
+      "matchCode": "M4",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-v7ngtq4y",
+    "timestamp": "2025-08-15T13:08:52.303Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M5",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Heather Cohen",
+      "matchCode": "M5",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-8r1w1qss",
+    "timestamp": "2025-08-15T13:08:54.398Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M6",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Karen Foster",
+      "matchCode": "M6",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-77bn81yq",
+    "timestamp": "2025-08-15T13:08:56.200Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M7",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Anna Johnson",
+      "matchCode": "M7",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-13elt4bc",
+    "timestamp": "2025-08-15T13:08:57.811Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M8",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Rhonda Avila",
+      "matchCode": "M8",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-n3h6b1m9",
+    "timestamp": "2025-08-15T13:08:59.687Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M9",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Mr. Bryan Jones",
+      "matchCode": "M9",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-iqyxgbl0",
+    "timestamp": "2025-08-15T13:09:01.396Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M10",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Levi Gibson",
+      "matchCode": "M10",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-ua1ijd19",
+    "timestamp": "2025-08-15T13:09:03.128Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M11",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Amy Bradshaw",
+      "matchCode": "M11",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-s9pnjgiu",
+    "timestamp": "2025-08-15T13:09:05.415Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M12",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Erin Haynes",
+      "matchCode": "M12",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-8bger30y",
+    "timestamp": "2025-08-15T13:09:07.162Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M13",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Tara Walker",
+      "matchCode": "M13",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-5c20padk",
+    "timestamp": "2025-08-15T13:09:08.944Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M14",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Stephen Garcia",
+      "matchCode": "M14",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-kkpitpff",
+    "timestamp": "2025-08-15T13:09:10.680Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M15",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Sara Hall",
+      "matchCode": "M15",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-2a34ipax",
+    "timestamp": "2025-08-15T13:09:12.516Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-M16",
+    "tournamentId": "TID-1024",
+    "details": {
+      "winner": "Brady Washington",
+      "matchCode": "M16",
+      "roundName": "Round of 32"
+    },
+    "id": "AUD-i50vcgg5",
+    "timestamp": "2025-08-15T13:09:14.302Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-Round of 32",
+    "tournamentId": "TID-1024",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-1024"
+    },
+    "id": "AUD-ffk52pah",
+    "timestamp": "2025-08-15T13:09:24.791Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-SG8JSJNA1",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Patricia Chang"
+    },
+    "id": "AUD-3qutep9q",
+    "timestamp": "2025-08-15T13:20:54.148Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-5M31ZFGY7",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kevin Smith"
+    },
+    "id": "AUD-jcw6oe9t",
+    "timestamp": "2025-08-15T13:20:56.546Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-GLQ8U7IG2",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Katrina May"
+    },
+    "id": "AUD-mq5w67rg",
+    "timestamp": "2025-08-15T13:20:58.838Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-1LEYZWH9D",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kimberly Williams"
+    },
+    "id": "AUD-q7p050qy",
+    "timestamp": "2025-08-15T13:21:01.646Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-LPH02WOYQ",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Heather Cohen"
+    },
+    "id": "AUD-ove3cpbf",
+    "timestamp": "2025-08-15T13:21:03.891Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-SB6JMWAQN",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Karen Foster"
+    },
+    "id": "AUD-hw1mb6nt",
+    "timestamp": "2025-08-15T13:21:06.288Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-K4D573C2L",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Anna Johnson"
+    },
+    "id": "AUD-s92sao3i",
+    "timestamp": "2025-08-15T13:21:09.401Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-LNG2IHQ2A",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Rhonda Avila"
+    },
+    "id": "AUD-e7oybk4t",
+    "timestamp": "2025-08-15T13:21:11.989Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-YW2EFVVUZ",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Mr. Bryan Jones"
+    },
+    "id": "AUD-j5x1whhj",
+    "timestamp": "2025-08-15T13:21:14.712Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-4MKLA2XWM",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Levi Gibson"
+    },
+    "id": "AUD-5l8k42ow",
+    "timestamp": "2025-08-15T13:21:17.061Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-XVV4JIHEU",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Amy Bradshaw"
+    },
+    "id": "AUD-fohe2jz3",
+    "timestamp": "2025-08-15T13:21:19.495Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-DYF0C4U8A",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Erin Haynes"
+    },
+    "id": "AUD-njrz08kp",
+    "timestamp": "2025-08-15T13:21:22.257Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-O3TXS0S7E",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Tara Walker"
+    },
+    "id": "AUD-qzk7nh1g",
+    "timestamp": "2025-08-15T13:21:24.670Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-8Q1M8O5Z8",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Stephen Garcia"
+    },
+    "id": "AUD-3u1vsq7c",
+    "timestamp": "2025-08-15T13:21:29.063Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-DALCBYDCY",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Sara Hall"
+    },
+    "id": "AUD-98ximto8",
+    "timestamp": "2025-08-15T13:21:31.724Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-6CT1BAMY4",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Brady Washington"
+    },
+    "id": "AUD-76lh2w4g",
+    "timestamp": "2025-08-15T13:21:34.035Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-3ES9RH0Z6",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kayla Moran"
+    },
+    "id": "AUD-wp9bcpop",
+    "timestamp": "2025-08-15T13:21:36.427Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-IXC7H1CC5",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Steven Wilson"
+    },
+    "id": "AUD-08kq3t44",
+    "timestamp": "2025-08-15T13:21:38.644Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-HWIVP1VCT",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Lance Richardson"
+    },
+    "id": "AUD-dbij2agv",
+    "timestamp": "2025-08-15T13:21:41.014Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-9ZMYFWFH7",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Samantha Weaver"
+    },
+    "id": "AUD-95wg8zs4",
+    "timestamp": "2025-08-15T13:21:43.255Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-SD9LEIL8G",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Alan King"
+    },
+    "id": "AUD-5t5zrm8u",
+    "timestamp": "2025-08-15T13:21:45.557Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-4D71OVZFO",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Laura Olson"
+    },
+    "id": "AUD-1plawyer",
+    "timestamp": "2025-08-15T13:21:47.971Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-QGVRQLBSJ",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Daniel Miller"
+    },
+    "id": "AUD-ptwbz1a4",
+    "timestamp": "2025-08-15T13:21:50.135Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-F7Z0QYWDA",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Lee Martinez"
+    },
+    "id": "AUD-gzda7hj3",
+    "timestamp": "2025-08-15T13:21:52.522Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-57JEQ0O09",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Ernest Townsend"
+    },
+    "id": "AUD-2vy647xw",
+    "timestamp": "2025-08-15T13:21:55.479Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-3BLCHID1A",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Jenna Brooks"
+    },
+    "id": "AUD-3ksnr8fz",
+    "timestamp": "2025-08-15T13:21:57.843Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-D8T6NHUZZ",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Thomas Wilson"
+    },
+    "id": "AUD-5lnazio5",
+    "timestamp": "2025-08-15T13:22:00.418Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-5I90OAKJ7",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Katie Keller"
+    },
+    "id": "AUD-u60z9akm",
+    "timestamp": "2025-08-15T13:22:02.713Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-HUVW4PJAL",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "David Roberts"
+    },
+    "id": "AUD-d1n8fgsg",
+    "timestamp": "2025-08-15T13:22:04.814Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-LU3777SO2",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Kenneth Woods"
+    },
+    "id": "AUD-hceoi3tj",
+    "timestamp": "2025-08-15T13:22:07.422Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-5OINWSZP9",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Mike Smith"
+    },
+    "id": "AUD-lwrdatdc",
+    "timestamp": "2025-08-15T13:22:09.619Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "REG-C001NCJUD",
+    "tournamentId": "TID-1024",
+    "details": {
+      "playerNumber": 1,
+      "fullName": "Jerry Tate"
+    },
+    "id": "AUD-orz93eci",
+    "timestamp": "2025-08-15T13:22:12.606Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "DELETE",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-schedule-clear",
+    "tournamentId": "TID-1024",
+    "details": {
+      "action": "Manually cleared tournament schedule",
+      "tournamentId": "TID-1024"
+    },
+    "id": "AUD-fwrydjs0",
+    "timestamp": "2025-08-15T13:22:22.371Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-1024",
+    "tournamentId": "TID-1024",
+    "details": {
+      "tournamentId": "TID-1024",
+      "participantsCount": 32,
+      "tournamentName": "Bengaluru Open 2025"
+    },
+    "id": "AUD-6v3ddv5l",
+    "timestamp": "2025-08-15T14:55:57.350Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-1024",
+    "tournamentId": "TID-1024",
+    "details": {
+      "name": "Bengaluru Open 2025",
+      "sport": "Badminton"
+    },
+    "id": "AUD-nl98y8zm",
+    "timestamp": "2025-08-15T15:16:59.029Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "ADD",
+    "resourceType": "registration",
+    "resourceId": "TID-1024-Round32",
+    "tournamentId": "TID-1024",
+    "details": {
+      "roundName": "Round of 32",
+      "tournamentId": "TID-1024"
+    },
+    "id": "AUD-nflauk5s",
+    "timestamp": "2025-08-15T16:07:37.682Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-phbgzl9d",
+    "timestamp": "2025-08-16T03:49:53.580Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-h7nytco0",
+    "timestamp": "2025-08-16T03:49:53.584Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-loe4icy1",
+    "timestamp": "2025-08-16T03:50:23.765Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-au478ict",
+    "timestamp": "2025-08-16T03:50:24.056Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-58u0h1ga",
+    "timestamp": "2025-08-16T03:55:24.530Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-mn907h41",
+    "timestamp": "2025-08-16T03:55:28.774Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-wmrsvruq",
+    "timestamp": "2025-08-16T03:56:39.819Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-ld1xpzmp",
+    "timestamp": "2025-08-16T03:56:45.727Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-85z3d6bv",
+    "timestamp": "2025-08-16T03:59:39.561Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-i8teisw9",
+    "timestamp": "2025-08-16T03:59:49.765Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-v1g3a8qf",
+    "timestamp": "2025-08-16T03:59:56.574Z"
+  },
+  {
+    "adminUser": "admin",
+    "action": "UPDATE",
+    "resourceType": "tournament",
+    "resourceId": "TID-0001",
+    "tournamentId": "TID-0001",
+    "details": {
+      "action": "status_updated_to_completed",
+      "tournamentId": "TID-0001"
+    },
+    "id": "AUD-3olr34rh",
+    "timestamp": "2025-08-16T03:59:56.604Z"
+  }
+]
